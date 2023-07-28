@@ -1,8 +1,8 @@
-//Class Abstract 
-//Inheritance
-//Encapsulation 
-//Overriding 
-//Overloading
+//Class Abstract (tidak bisa dibuat langsung menjadi objek)
+//Inheritance    (Pewarisan/Penurunan)
+//Encapsulation  (Public, private, protection)
+//Overriding     (Pembuatan ulang metode yang ada pada superclass di subclass atau anak kelas. Metode overriding digunakan agar subclass memiliki fungsi yang lebih spesifik.)
+//Overloading    (Membuat beberapa method dengan nama yang sama, tapi dibedakan dari jumlah dan/atau tipe parameter.)
 
 abstract class Peminjaman{
     void denda(){}
